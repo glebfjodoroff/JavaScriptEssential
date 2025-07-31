@@ -2,7 +2,7 @@
     "conditions": [
       {
         "name": "Thyroid",
-        "imagesrc":"https://www.newsinhealth.nih.gov/sites/newsinhealth/files/2022/January/jan-2022-capsule-2-3d-illustration-thyroid-gland.jpg",
+        "imagesrc":".thyroid.jpg",
         "symptoms": [
           "Fatigue",
           "Weight gain or loss",
